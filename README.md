@@ -1,3 +1,3 @@
 # My first ASTR 302 git repository
-practicing git
+Practicing git
 Message from parallel universe!
